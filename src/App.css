@@ -1,0 +1,16 @@
+.bg-t-success {
+    background-color: rgba(54,231,38,.151);
+}
+.bg-t-primary {
+  background-color: rgba(19, 15, 211, 0.425);
+}
+.signUpImg{
+  background-image: url('https://mdbootstrap.com/img/new/textures/full/171.jpg');
+  background-size: cover;
+  height: 300px;
+}
+.card-shadow{
+  margin-top: -100px;
+                background: hsla(0, 0%, 100%, 0.8);
+                backdrop-filter: blur(30px);
+}
